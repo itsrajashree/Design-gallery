@@ -28,7 +28,7 @@
   <img src="./job-seeker-tips.jpg" alt="Job Seeker Tips Poster" width="300">
 </a>
 
-<h4>🧠 Personal Branding Logos</h4>
+<h3>🧠 Personal Branding Logos</h3>
 
 <a href="./my-brand-logo.png" target="_blank">
   <img src="./my-brand-logo.png" alt="R & Brain Logo" width="300">
