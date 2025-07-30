@@ -1,7 +1,23 @@
 # 🎨 Rajashree Radhakrishnan – Creative Design Showcase
 
 Welcome to my design gallery and submission portfolio.  
-This repository features original works created using **Canva**, showcasing modern design trends such as **Glassmorphism**, **Neo-Brutalism**, **Logos**, and **Personal Branding**.
+This repository features original works created using **Canva** and **Figma**, showcasing modern design trends such as **Glassmorphism**, **Neo-Brutalism**, **Logos**, **Personal Branding**, and **E-Commerce UI Design**.
+
+---
+
+## 🛍️ E-Commerce Figma UI Design
+
+One of my recent works includes a clean, mobile-first e-commerce design created in **Figma**, demonstrating user-focused layout, modern styling, and product clarity.
+
+### 📄 Preview
+
+**PDF Version:**  
+[`E-commerce design.pdf`](./E-commerce%20design.pdf)
+
+**Image Preview:**  
+![E-commerce Figma Design](./Figma%20Design.png)
+
+> 📌 Product categories, ratings, dynamic pricing, and interactive buttons are all arranged for high usability and visual appeal.
 
 ---
 
@@ -65,19 +81,21 @@ A bold, structured layout using flat colors and sharp typography to convey stren
 
 ## 📁 File Summary
 
-| File Name             | Style           | Format | Description                           |
-|----------------------|-----------------|--------|---------------------------------------|
-| `Glassmorphism.png`   | Glassmorphism    | PNG    | Elegant poster with blur and glow     |
-| `Neo-brutalism.png`   | Neo-Brutalism    | PNG    | Bold layout with flat and raw visuals |
+| File Name               | Style            | Format | Description                           |
+|------------------------|------------------|--------|---------------------------------------|
+| `Figma Design.png`      | E-commerce UI    | PNG    | Clean mobile layout with product info |
+| `E-commerce design.pdf` | E-commerce UI    | PDF    | Shareable version for submissions     |
+| `Glassmorphism.png`     | Glassmorphism     | PNG    | Elegant poster with blur and glow     |
+| `Neo-brutalism.png`     | Neo-Brutalism     | PNG    | Bold layout with flat/raw visuals     |
 
 ---
 
 ## 🛠️ Tools & Skills Used
 
-- **Design Tool:** Canva  
-- **Core Concepts:** Layout planning, visual hierarchy, style referencing  
-- **Trends Practiced:** Glassmorphism, Neo-Brutalism, Branding  
-- **Skills Applied:** Typography, color balance, composition, content clarity
+- **Design Tools:** Figma, Canva  
+- **Core Concepts:** UI layout, mobile responsiveness, product display  
+- **Trends Practiced:** E-commerce, Glassmorphism, Neo-Brutalism, Branding  
+- **Skills Applied:** Typography, color balance, user flow, visual clarity
 
 ---
 
